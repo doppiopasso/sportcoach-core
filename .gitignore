@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/ .venv/
+.env .env.*
+*.zip.dist/
+dataset-v1/_stats.txt
+node_modules/
